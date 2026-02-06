@@ -1,0 +1,37 @@
+{
+  "name": "blitztools-pdf-tools",
+  "version": "1.0.0",
+  "description": "Free browser-based PDF tools — merge, split, compress, edit, protect, convert PDFs. No uploads, powered by WebAssembly.",
+  "homepage": "https://blitztools.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsvvsolsllc/blitztools-pdf-tools"
+  },
+  "keywords": [
+    "pdf-merge",
+    "pdf-split",
+    "pdf-compress",
+    "pdf-editor",
+    "pdf-tools",
+    "free-pdf",
+    "pdf-converter",
+    "merge-pdf",
+    "split-pdf",
+    "compress-pdf",
+    "pdf-to-image",
+    "doc-to-pdf",
+    "xlsx-to-pdf",
+    "pdf-protect",
+    "pdf-unlock",
+    "browser-pdf",
+    "wasm-pdf",
+    "webassembly",
+    "client-side-pdf",
+    "privacy-pdf"
+  ],
+  "author": "JSVV SOLS LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsvvsolsllc/blitztools-pdf-tools/issues"
+  }
+}
