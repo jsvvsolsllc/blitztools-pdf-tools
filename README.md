@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://blitztools.app/logo.svg" alt="BlitzTools PDF Tools" width="80" />
+  <img src="https://mioffice.ai/logo.svg" alt="MiOffice PDF Tools" width="80" />
 </p>
 
-<h1 align="center">BlitzTools PDF Tools</h1>
+<h1 align="center">MiOffice PDF Tools</h1>
 
 <p align="center">
   <strong>Free browser-based PDF processing. No uploads. No sign-up. Powered by WebAssembly.</strong>
 </p>
 
 <p align="center">
-  <a href="https://blitztools.app/tools/pdf"><img src="https://img.shields.io/badge/Try%20Now-blitztools.app-2563EB?style=for-the-badge" alt="Try BlitzTools PDF" /></a>
+  <a href="https://mioffice.ai/tools/pdf"><img src="https://img.shields.io/badge/Try%20Now-mioffice.ai-2563EB?style=for-the-badge" alt="Try MiOffice PDF" /></a>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ## About
 
-**[BlitzTools PDF Tools](https://blitztools.app/tools/pdf)** is a suite of free, browser-based PDF processing tools. Every operation runs entirely on your device using WebAssembly. Your PDF files are never uploaded to any server.
+**[MiOffice PDF Tools](https://mioffice.ai/tools/pdf)** is a suite of free, browser-based PDF processing tools. Every operation runs entirely on your device using WebAssembly. Your PDF files are never uploaded to any server.
 
 Built with Rust compiled to WASM for near-native performance, and a Next.js frontend for a smooth user experience.
 
@@ -34,20 +34,20 @@ Built with Rust compiled to WASM for near-native performance, and a Next.js fron
 
 | Tool | Description | Link |
 |------|-------------|------|
-| **PDF Merge** | Combine multiple PDF files into one document | [Open](https://blitztools.app/tools/pdf/merge) |
-| **PDF Split** | Split a PDF into individual pages or custom page ranges | [Open](https://blitztools.app/tools/pdf/split) |
-| **PDF Compress** | Reduce PDF file size without noticeable quality loss | [Open](https://blitztools.app/tools/pdf/compress) |
-| **PDF Editor** | Add text, images, and annotations to PDFs | [Open](https://blitztools.app/tools/pdf/editor) |
-| **PDF Rotate** | Rotate individual pages or all pages at once | [Open](https://blitztools.app/tools/pdf/rotate) |
-| **PDF Protect** | Add password encryption to PDF documents | [Open](https://blitztools.app/tools/pdf/protect) |
-| **PDF Unlock** | Remove password protection from PDFs | [Open](https://blitztools.app/tools/pdf/unlock) |
-| **PDF to Images** | Convert PDF pages to high-resolution PNG or JPG | [Open](https://blitztools.app/tools/pdf/to-images) |
-| **DOC to PDF** | Convert Word documents (.doc, .docx) to PDF | [Open](https://blitztools.app/tools/pdf/doc-to-pdf) |
-| **XLSX to PDF** | Convert Excel spreadsheets (.xlsx) to PDF | [Open](https://blitztools.app/tools/pdf/xlsx-to-pdf) |
+| **PDF Merge** | Combine multiple PDF files into one document | [Open](https://mioffice.ai/tools/pdf/merge) |
+| **PDF Split** | Split a PDF into individual pages or custom page ranges | [Open](https://mioffice.ai/tools/pdf/split) |
+| **PDF Compress** | Reduce PDF file size without noticeable quality loss | [Open](https://mioffice.ai/tools/pdf/compress) |
+| **PDF Editor** | Add text, images, and annotations to PDFs | [Open](https://mioffice.ai/tools/pdf/editor) |
+| **PDF Rotate** | Rotate individual pages or all pages at once | [Open](https://mioffice.ai/tools/pdf/rotate) |
+| **PDF Protect** | Add password encryption to PDF documents | [Open](https://mioffice.ai/tools/pdf/protect) |
+| **PDF Unlock** | Remove password protection from PDFs | [Open](https://mioffice.ai/tools/pdf/unlock) |
+| **PDF to Images** | Convert PDF pages to high-resolution PNG or JPG | [Open](https://mioffice.ai/tools/pdf/to-images) |
+| **DOC to PDF** | Convert Word documents (.doc, .docx) to PDF | [Open](https://mioffice.ai/tools/pdf/doc-to-pdf) |
+| **XLSX to PDF** | Convert Excel spreadsheets (.xlsx) to PDF | [Open](https://mioffice.ai/tools/pdf/xlsx-to-pdf) |
 
 ---
 
-## Why BlitzTools PDF?
+## Why MiOffice PDF?
 
 ### Privacy by Design
 
@@ -62,11 +62,11 @@ Your PDF files **never leave your device**. All processing happens in your brows
 
 ### Performance
 
-Built with **Rust compiled to WebAssembly**, BlitzTools PDF processing runs at near-native speeds. The WASM engine handles complex operations like PDF rendering, text extraction, and compression directly in the browser.
+Built with **Rust compiled to WebAssembly**, MiOffice PDF processing runs at near-native speeds. The WASM engine handles complex operations like PDF rendering, text extraction, and compression directly in the browser.
 
 ### Works Offline
 
-Once loaded, [BlitzTools PDF Tools](https://blitztools.app/tools/pdf) work without an internet connection via service workers. Process PDFs on a plane, in a meeting, or anywhere without connectivity.
+Once loaded, [MiOffice PDF Tools](https://mioffice.ai/tools/pdf) work without an internet connection via service workers. Process PDFs on a plane, in a meeting, or anywhere without connectivity.
 
 ### All Platforms
 
@@ -76,12 +76,12 @@ Works on any modern browser — Chrome, Firefox, Safari, Edge. Desktop and mobil
 
 ## Use Cases
 
-- **Merge PDF files** — Combine contracts, reports, or scanned pages into a single PDF with [BlitzTools PDF Merge](https://blitztools.app/tools/pdf/merge).
-- **Split large PDFs** — Extract specific pages or split a document into chapters using [BlitzTools PDF Split](https://blitztools.app/tools/pdf/split).
-- **Compress PDFs for email** — Reduce file size to fit email attachment limits with [BlitzTools PDF Compress](https://blitztools.app/tools/pdf/compress).
-- **Edit existing PDFs** — Add text, signatures, and images with [BlitzTools PDF Editor](https://blitztools.app/tools/pdf/editor).
-- **Convert documents to PDF** — Turn Word and Excel files into PDF format with [BlitzTools DOC to PDF](https://blitztools.app/tools/pdf/doc-to-pdf).
-- **Secure sensitive PDFs** — Add password protection to confidential documents with [BlitzTools PDF Protect](https://blitztools.app/tools/pdf/protect).
+- **Merge PDF files** — Combine contracts, reports, or scanned pages into a single PDF with [MiOffice PDF Merge](https://mioffice.ai/tools/pdf/merge).
+- **Split large PDFs** — Extract specific pages or split a document into chapters using [MiOffice PDF Split](https://mioffice.ai/tools/pdf/split).
+- **Compress PDFs for email** — Reduce file size to fit email attachment limits with [MiOffice PDF Compress](https://mioffice.ai/tools/pdf/compress).
+- **Edit existing PDFs** — Add text, signatures, and images with [MiOffice PDF Editor](https://mioffice.ai/tools/pdf/editor).
+- **Convert documents to PDF** — Turn Word and Excel files into PDF format with [MiOffice DOC to PDF](https://mioffice.ai/tools/pdf/doc-to-pdf).
+- **Secure sensitive PDFs** — Add password protection to confidential documents with [MiOffice PDF Protect](https://mioffice.ai/tools/pdf/protect).
 
 ---
 
@@ -92,7 +92,7 @@ Works on any modern browser — Chrome, Firefox, Safari, Edge. Desktop and mobil
 - [aboutpdf.net](https://aboutpdf.net) — PDF format guides, tips, and tool comparisons.
 - [pdf-editor-for-mac.com](https://pdf-editor-for-mac.com) — PDF editing resources for macOS users.
 - [jpegtopdfconverter.com](https://jpegtopdfconverter.com) — Convert JPEG images to PDF documents.
-- [BlitzTools Image to PDF](https://blitztools.app/tools/image/to-pdf) — Convert images to PDF directly in browser.
+- [MiOffice Image to PDF](https://mioffice.ai/tools/image/to-pdf) — Convert images to PDF directly in browser.
 
 ---
 
@@ -109,10 +109,10 @@ Works on any modern browser — Chrome, Firefox, Safari, Edge. Desktop and mobil
 
 ## Also Check Out
 
-- [BlitzTools Image Tools](https://blitztools.app/tools/image) — Compress, resize, crop, and convert images in browser.
-- [BlitzTools Video Tools](https://blitztools.app/tools/video) — Compress and convert videos with FFmpeg WASM.
-- [BlitzTools AI Tools](https://blitztools.app/tools/ai) — Remove backgrounds, objects, and more with browser AI.
-- [All BlitzTools](https://blitztools.app) — 66+ free browser-based tools.
+- [MiOffice Image Tools](https://mioffice.ai/tools/image) — Compress, resize, crop, and convert images in browser.
+- [MiOffice Video Tools](https://mioffice.ai/tools/video) — Compress and convert videos with FFmpeg WASM.
+- [MiOffice AI Tools](https://mioffice.ai/tools/ai) — Remove backgrounds, objects, and more with browser AI.
+- [All MiOffice](https://mioffice.ai) — 66+ free browser-based tools.
 
 ---
 
